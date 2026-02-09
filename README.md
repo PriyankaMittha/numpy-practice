@@ -26,7 +26,7 @@ The code is beginner-friendly and focuses on understanding how NumPy works with 
 
 🎯 Purpose
 
-This repository is created for:
+## This repository is created for:
 - Learning NumPy from basics
 - Practicing array operations
 - Strengthening Python skills for Data Analyst / ML roles
@@ -36,12 +36,18 @@ This repository is created for:
 ```bash
 git clone https://github.com/your-username/numpy-fundamentals.git
 
+2. Install NumPy (if not installed):
+pip install numpy
+
+3. Run the file:
+python unit 1.py ```
+
 ---
 
-🙋‍♀️ Author
+## 🙋‍♀️ Author
 
 Priyanka Mittha
 
 GitHub: https://github.com/PriyankaMittha
 
-LinkedIn: https://www.linkedin.com/in/priyanka-mittha-80b66723b/
+LinkedIn: https://www.linkedin.com/in/priyanka-mittha
