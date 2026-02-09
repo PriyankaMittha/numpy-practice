@@ -24,10 +24,10 @@ The code is beginner-friendly and focuses on understanding how NumPy works with 
 
 ---
 
-🎯 Purpose
+## 🎯 Purpose
 
-## This repository is created for:
-- Learning NumPy from basics
+This repository is created for:
+- Learning NumPy from the basics
 - Practicing array operations
 - Strengthening Python skills for Data Analyst / ML roles
 
@@ -40,7 +40,7 @@ git clone https://github.com/your-username/numpy-fundamentals.git
 pip install numpy
 
 3. Run the file:
-python unit 1.py ```
+python unit 1.py ```bash
 
 ---
 
